@@ -1,6 +1,6 @@
 pragma solidity ^0.5.17;
 
-import "./Unifty.sol";
+import "contracts/collections/Unifty.sol";
 
 contract PauserRole is Context {
     using Roles for Roles.Role;

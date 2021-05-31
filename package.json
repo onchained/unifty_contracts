@@ -4,10 +4,11 @@
   "description": "Smart contracts for Unifty.io",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile": "hardhat compile",
+    "test": "hardhat test"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Onchained",
+  "license": "MIT",
   "devDependencies": {
     "hardhat": "^2.3.0"
   }

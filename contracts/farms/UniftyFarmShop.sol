@@ -1,7 +1,7 @@
 pragma solidity ^0.5.17;
 
-import "./Unifty.sol";
-import "./UniftyFarm.sol";
+import "contracts/collections/Unifty.sol";
+import "contracts/farms/UniftyFarm.sol";
 
 contract UniftyFarmShopAddon is  Ownable, CloneFactory, WhitelistAdminRole {
 	using SafeMath for uint256;
