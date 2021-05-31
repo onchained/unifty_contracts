@@ -1,0 +1,14 @@
+{
+  "name": "unifty_contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Unifty.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.3.0"
+  }
+}
