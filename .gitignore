@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+cache/
+coverage/
+coverage.json
+.next
+.next/
+out/
+artifacts/
+src/types/
+package-lock.json
+.env
