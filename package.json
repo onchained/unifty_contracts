@@ -7,7 +7,8 @@
     "compile": "hardhat compile",
     "test": "hardhat test"
   },
-  "author": "Onchained",
+  "author": "BennyTheDev",
+  "contributors": ["Onchained"],
   "license": "MIT",
   "devDependencies": {
     "hardhat": "^2.3.0"
