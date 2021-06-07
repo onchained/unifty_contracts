@@ -1,5 +1,6 @@
 import { HardhatUserConfig } from "hardhat/config";
 import "@nomiclabs/hardhat-waffle";
+import "@typechain/hardhat";
 
 const config: HardhatUserConfig = {
   paths: {
